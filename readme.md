@@ -13,5 +13,5 @@
 
 
 ### TRANSLATION
-###### First col	Second col	Third col	Fourth col	Fithf col	
-###### Subject		Description	Date		Left days	Delete task
+###### First col	||Second col	||Third col	||Fourth col	||Fithf col	
+###### Subject		||Description	||Date		  ||Left days	  ||Delete task
