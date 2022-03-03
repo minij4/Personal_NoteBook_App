@@ -1,0 +1,11 @@
+C:\Users\emili\Desktop\2020-2021\Pavasaris\Objektinis programavimas\PD10\PD10\bin\Debug\PD10.exe.config
+C:\Users\emili\Desktop\2020-2021\Pavasaris\Objektinis programavimas\PD10\PD10\bin\Debug\PD10.exe
+C:\Users\emili\Desktop\2020-2021\Pavasaris\Objektinis programavimas\PD10\PD10\bin\Debug\PD10.pdb
+C:\Users\emili\Desktop\2020-2021\Pavasaris\Objektinis programavimas\PD10\PD10\obj\Debug\PD10.Form1.resources
+C:\Users\emili\Desktop\2020-2021\Pavasaris\Objektinis programavimas\PD10\PD10\obj\Debug\PD10.Properties.Resources.resources
+C:\Users\emili\Desktop\2020-2021\Pavasaris\Objektinis programavimas\PD10\PD10\obj\Debug\PD10.csproj.GenerateResource.cache
+C:\Users\emili\Desktop\2020-2021\Pavasaris\Objektinis programavimas\PD10\PD10\obj\Debug\PD10.csproj.CoreCompileInputs.cache
+C:\Users\emili\Desktop\2020-2021\Pavasaris\Objektinis programavimas\PD10\PD10\obj\Debug\PD10.exe
+C:\Users\emili\Desktop\2020-2021\Pavasaris\Objektinis programavimas\PD10\PD10\obj\Debug\PD10.pdb
+C:\Users\emili\Desktop\2020-2021\Pavasaris\Objektinis programavimas\PD10\PD10\obj\Debug\PD10.csprojAssemblyReference.cache
+C:\Users\emili\Desktop\2020-2021\Pavasaris\Objektinis programavimas\PD10\PD10\obj\Debug\PD10.Form2.resources
